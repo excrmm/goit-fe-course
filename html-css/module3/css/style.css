@@ -1,0 +1,76 @@
+.main header{
+    width: 901;
+    margin: 0 auto;
+}
+li:hover {
+    color: blue;
+}
+
+.main nav{
+    font-size: 14px;
+    display: inline-block;
+    width: 700px;
+    padding: 78px 0px;
+    text-align: center;
+    position: center;
+    color: rgb(98, 98, 98);
+    margin: 0 auto;
+}
+.main nav li{
+    display: inline-block;
+    cursor: pointer;
+}
+
+.main nav li:not(:last-child){
+    margin-right: 120px;
+}
+h2{
+    font-size: 30px;
+    color: gray;
+    font-family: 'Playfair Display', serif;
+    margin-bottom: 40px;
+}
+.text{
+    font-size: 14px;
+    color: rgb(98, 98, 98);
+    font-family: 'Playfair Display', serif;
+}
+
+.category{
+    font-size: 14px;
+    font-family: 'Ubuntu', sans-serif;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    color: gray;
+}
+
+
+.d{
+    display: inline-block;
+    width: 420px;
+}
+.wrapper{
+    margin: 0 auto;
+    width: 901px;
+}
+img{
+    width:420px;
+}
+
+.d2, .d4, .d6   {
+    margin-left:55px;
+}
+
+
+.b1{
+   width: 160px; 
+   height: 60px;
+   font-size: 20px;
+   font-family: 'Playfair Display', serif;
+   display:block;
+   position: relative;
+   margin: 0 auto;
+   margin-top: 60px;
+   margin-bottom: 60px;
+   outline: 60px;
+}
