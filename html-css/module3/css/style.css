@@ -1,6 +1,7 @@
 .main header{
-    width: 901;
     margin: 0 auto;
+    width: 901;
+    
 }
 li:hover {
     color: blue;
@@ -8,13 +9,12 @@ li:hover {
 
 .main nav{
     font-size: 14px;
-    display: inline-block;
-    width: 700px;
+ 
     padding: 78px 0px;
     text-align: center;
     position: center;
     color: rgb(98, 98, 98);
-    margin: 0 auto;
+
 }
 .main nav li{
     display: inline-block;
